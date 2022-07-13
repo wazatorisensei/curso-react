@@ -1,0 +1,24 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0
+}
+
+.TabelaProdutos table {
+    width: 100%;
+}
+
+.TabelaProdutos th {
+    background-color: #283CAE;
+    color: #FFF;
+}
+
+.TabelaProdutos .Par {
+    background-color: rgb(205, 205, 205);
+}
+
+.TabelaProdutos .Impar {
+    background-color: rgb(255, 255, 255);
+}

@@ -1,0 +1,7 @@
+.Content {
+    font-family: 'RobotoMono', monospace;
+    display: flex;
+    flex-grow: 1;
+    background-color: #CDCDCD;
+    padding: 30px;
+}
